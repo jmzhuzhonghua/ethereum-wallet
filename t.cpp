@@ -2,6 +2,7 @@ class A {
 
 public:
    int m_x;
+   int m_y;
    
 public:   
    int get() const {
